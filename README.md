@@ -4,14 +4,14 @@
 
 I enjoy working at the intersection of **machine learning, data pipelines, and product development**, always looking for ways to turn raw data into insights, decisions, and real value.  
 
----
+
 
 ## 🔭 What I’m working on
 - Applying **Machine Learning & AI** in the agri-food sector at [IRTA](https://www.irta.cat), developing pipelines, predictive models, and interactive dashboards.  
 - Working on **“Integrating Explainable AI into MLOps: A Pipeline for Transparent and Trustworthy Anomaly Detection in Photovoltaic Systems** (Master’s thesis).  
 - Exploring modern data & ML tooling with different projects, from an **Intelligent Q&A system** to an **Autonomous AI-Powered Trading Agent**.  
 
----
+
 
 ## 🛠️ Tech I use
 - **Languages:** Python, R, Java, TypeScript.
@@ -19,14 +19,14 @@ I enjoy working at the intersection of **machine learning, data pipelines, and p
 - **Frameworks:** FastAPI, Angular, Spring Boot.
 - **Learning:** PyTorch, Kafka, Flink, PySpark, MongoDB, InfluxDB.
 
----
+
 
 ## 🔬 Research
 I contributed to the paper:  
 [**Visible-near infrared spectroscopy and near-infrared hyperspectral imaging for the detection of T-2 and HT-2 toxins in individual oat grains**](https://doi.org/10.1016/j.foodcont.2025.111676) (*Food Control, 2025*)  
 → Worked on **machine learning models, feature engineering, and hyperspectral data processing**.  
 
----
+
 
 ## 📚 Books I recommend
 
@@ -45,7 +45,7 @@ I contributed to the paper:
 - **Clean Code – Robert C. Martin**  
   Yes, obviously… every software engineer eventually ends up here.
 
----
+
 
 ## 🌱 Outside of code
 - 🏃 Runner (and ⛰️ Trail runner) & outdoor enthusiast  
@@ -53,8 +53,8 @@ I contributed to the paper:
 - 📖 I enjoy reading, especially about technology, AI, and how innovation transforms our world
 - 🚀 Interested in **entrepreneurship, product building, and tech trends**  
 
----
 
-## 📫 Let’s connect
-- 💼 [My LinkedIn](https://www.linkedin.com/in/pauagustifernandez3)  
-- ✉️ pauagustifernandez3@gmail.com  
+
+## 📫 Open to Collaborate
+I enjoy teaming up on projects, exchanging knowledge, and exploring opportunities to create impactful solutions.  
+- 💼 Let’s connect on [LinkedIn](https://www.linkedin.com/in/pauagustifernandez3)
