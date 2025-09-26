@@ -1,16 +1,60 @@
-## Hi there 👋
+# 👋 Hi, I'm Pau Agustí Fernandez  
 
-<!--
-**paupaf3/paupaf3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 **Data Scientist & AI Analyst** with a background in **full-stack development** and a passion for building **data-driven solutions** that make an impact.  
 
-Here are some ideas to get you started:
+I enjoy working at the intersection of **machine learning, data pipelines, and product development**, always looking for ways to turn raw data into insights, decisions, and real value.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔭 What I’m working on
+- Applying **Machine Learning & AI** in the agri-food sector at [IRTA](https://www.irta.cat), developing pipelines, predictive models, and interactive dashboards.  
+- Working on **“Integrating Explainable AI into MLOps: A Pipeline for Transparent and Trustworthy Anomaly Detection in Photovoltaic Systems** (Master’s thesis).  
+- Exploring modern data & ML tooling with different projects, from an **Intelligent Q&A system** to an **Autonomous AI-Powered Trading Agent**.  
+
+---
+
+## 🛠️ Tech I use
+- **Languages:** Python, R, Java, TypeScript.
+- **ML/DS:** scikit-learn, Keras, Pandas, NumPy, Matplotlib, LangChain, Streamlit, etc.  
+- **Frameworks:** FastAPI, Angular, Spring Boot.
+- **Learning:** PyTorch, Kafka, Flink, PySpark, MongoDB, InfluxDB.
+
+---
+
+## 🔬 Research
+I contributed to the paper:  
+[**Visible-near infrared spectroscopy and near-infrared hyperspectral imaging for the detection of T-2 and HT-2 toxins in individual oat grains**](https://doi.org/10.1016/j.foodcont.2025.111676) (*Food Control, 2025*)  
+→ Worked on **machine learning models, feature engineering, and hyperspectral data processing**.  
+
+---
+
+## 📚 Books I recommend
+
+- **AI Engineering – Chip Huyen**  
+  A great perspective on bridging the gap between research and production. This book emphasizes not just building models, but making them useful in the real world, thinking about deployment, monitoring, iteration, and the people who will use them. It’s especially valuable if you’re interested in moving from “playing with models” to actually shipping AI systems that work at scale.
+
+- **Designing Machine Learning Systems – Chip Huyen**  
+  An essential guide to understanding that ML is more than just algorithms. It dives into how to design end-to-end pipelines, handle data, and plan for scalability and maintainability. What I like most is how it changes your perspective: success isn’t only about model accuracy, but about creating robust systems that deliver value in production.
+
+- **The Pragmatic Programmer – Andrew Hunt & David Thomas**  
+  Timeless principles on how to think and act as a professional developer. Many of its lessons can also be applied beyond software, to other fields and careers. 
+
+- **Code Complete – Steve McConnell**  
+  Deep dive into software craftsmanship. Helps you understand *why* good practices matter. 
+
+- **Clean Code – Robert C. Martin**  
+  Yes, obviously… every software engineer eventually ends up here.
+
+---
+
+## 🌱 Outside of code
+- 🏃 Runner (and ⛰️ Trail runner) & outdoor enthusiast  
+- 🎣 Passionate about fishing and nature
+- 📖 I enjoy reading, especially about technology, AI, and how innovation transforms our world
+- 🚀 Interested in **entrepreneurship, product building, and tech trends**  
+
+---
+
+## 📫 Let’s connect
+- 💼 [My LinkedIn](https://www.linkedin.com/in/pauagustifernandez3)  
+- ✉️ pauagustifernandez3@gmail.com  
