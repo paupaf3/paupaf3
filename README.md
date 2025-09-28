@@ -35,6 +35,12 @@ I contributed to the paper:
 - **Designing Machine Learning Systems – Chip Huyen**  
   An essential guide to understanding that ML is more than just algorithms. It dives into how to design end-to-end pipelines, handle data, and plan for scalability and maintainability. What I like most is how it changes your perspective: success isn’t only about model accuracy, but about creating robust systems that deliver value in production.
 
+- **Statistics Without Tears – Derek Rowntree**  
+  Despite its simplicity—and perhaps because of it—it pulled me in immediately. It’s a very basic book, probably not suited for those with formal training, but its clarity, visual explanations, and relatable examples made statistics feel approachable and meaningful for the first time.
+
+- **The Art of Statistics: Learning from Data – David Spiegelhalter**  
+  Though it dives a bit deeper than Statistics Without Tears, it remains highly visual and accessible, offering insightful stories and real-world applications that make abstract statistical ideas come alive.
+
 - **The Pragmatic Programmer – Andrew Hunt & David Thomas**  
   Timeless principles on how to think and act as a professional developer. Many of its lessons can also be applied beyond software, to other fields and careers. 
 
