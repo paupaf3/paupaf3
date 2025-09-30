@@ -9,7 +9,8 @@ I enjoy working at the intersection of **machine learning, data pipelines, and p
 ## 🔭 What I’m working on
 - Applying **Machine Learning & AI** in the agri-food sector at [IRTA](https://www.irta.cat), developing pipelines, predictive models, and interactive dashboards.  
 - Working on **"Integrating Explainable AI into MLOps: A Pipeline for Transparent and Trustworthy Anomaly Detection in Photovoltaic Systems"** (Master’s thesis).  
-- Exploring modern data & ML tooling with different projects, from an **Intelligent Q&A system** to an **Autonomous AI-Powered Trading Agent**.  
+- Exploring modern data & ML tooling with different projects, from an **Intelligent Q&A system** to an **Autonomous AI-Powered Trading Agent**.
+- Building my **portfolio** and **blog** page, where I share, show and describe my **projects**, my ongoing **learning journey**, and **personal experiencies** along the way.
 
 
 
@@ -53,8 +54,8 @@ I contributed to the paper:
 
 
 ## 🌱 Outside of code
-- 🏃 Runner (and ⛰️ Trail runner) & outdoor enthusiast  
-- 🎣 Passionate about fishing and nature
+- 🏃 Runner (and ⛰️ Trail runner) 
+- 🎣 Passionate about fishing, nature and outdoors
 - 📖 I enjoy reading, especially about technology, AI, and how innovation transforms our world
 - 🚀 Interested in **entrepreneurship, product building, and tech trends**  
 
