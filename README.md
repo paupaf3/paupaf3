@@ -24,7 +24,12 @@ I enjoy working at the intersection of **machine learning, data pipelines, and p
 
 ## 🔬 Research
 I contributed to the paper:  
-[**Visible-near infrared spectroscopy and near-infrared hyperspectral imaging for the detection of T-2 and HT-2 toxins in individual oat grains**](https://doi.org/10.1016/j.foodcont.2025.111676) (*Food Control, 2025*) → Worked on **machine learning models, feature engineering, and hyperspectral data processing**.  
+[**Visible-near infrared spectroscopy and near-infrared hyperspectral imaging for the detection of T-2 and HT-2 toxins in individual oat grains**](https://doi.org/10.1016/j.foodcont.2025.111676) (*Food Control, 2025*)
+
+And the oral communication:  
+**Targeting the hidden few: a new paradigm for non-destructive spectroscopic detection of mycotoxins in individual oat grains** (*ILSI Early Carrer Scientist Event, 2025*)
+
+On both of them I worked on **machine learning models, feature engineering, and hyperspectral data processing**.
 
 
 
