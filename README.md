@@ -16,8 +16,8 @@ I enjoy working at the intersection of **machine learning, data pipelines, and p
 
 ## 🛠️ Tech I use
 - **Languages:** Python, R, Java, TypeScript.
-- **ML/DS:** scikit-learn, Keras, Pandas, NumPy, Matplotlib, LangChain, Streamlit, etc.  
-- **Frameworks:** FastAPI, Angular, Spring Boot.
+- **ML/DS:** scikit-learn, Keras, Pandas, NumPy, Matplotlib, LangChain, etc.  
+- **Frameworks:** FastAPI, Angular, Spring Boot, Streamlit, Tkinter.
 - **Learning:** PyTorch, Kafka, Flink, PySpark, MongoDB, InfluxDB.
 
 
