@@ -8,7 +8,7 @@ I enjoy working at the intersection of **machine learning, data pipelines, and p
 
 ## 🔭 What I’m working on
 - Applying **Machine Learning & AI** in the agri-food sector at [IRTA](https://www.irta.cat), developing pipelines, predictive models, and interactive dashboards.  
-- Working on **"Integrating Explainable AI into MLOps: A Pipeline for Transparent and Trustworthy Anomaly Detection in Photovoltaic Systems"** (Master’s thesis).  
+- Working on **"MLOps for Real-Time IoT Data Processing and Intelligent Monitoring of Photovoltaic Systems"** (Master’s thesis).  
 - Exploring modern data & ML tooling with different projects, from an **Intelligent Q&A system** to an **Autonomous AI-Powered Trading Agent**.
 - Developing an **entrepreneurial project** aimed at driving **digital transformation in a traditional industry** — more details will be revealed soon.
 
@@ -18,7 +18,7 @@ I enjoy working at the intersection of **machine learning, data pipelines, and p
 - **Languages:** Python, R, Java, TypeScript.
 - **ML/DS:** scikit-learn, Keras, Pandas, NumPy, Matplotlib, LangChain, etc.  
 - **Frameworks:** FastAPI, Angular, Spring Boot, Streamlit, Tkinter.
-- **Learning:** PyTorch, Kafka, Flink, PySpark, MongoDB, InfluxDB.
+- **Learning:** PyTorch, Apache Kafka, Apache Flink, Apache Iceberg PySpark, etc.
 
 
 
