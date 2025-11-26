@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Pau Agustí Fernandez  
+# Pau Agustí Fernandez  
 
-💡 **Data Scientist & AI Analyst** with a background in **full-stack development** and a passion for building **data-driven solutions**.  
+🚀 **Data Scientist & AI Engineer** with a background in **full-stack development** and a passion for building **data-driven solutions**.  
 
 I enjoy working at the intersection of **machine learning, data pipelines, and product development**, always looking for ways to turn raw data into insights, decisions, and real value.  
 
@@ -11,14 +11,6 @@ I enjoy working at the intersection of **machine learning, data pipelines, and p
 - Working on **"MLOps for Real-Time IoT Data Processing and Intelligent Monitoring of Photovoltaic Systems"** (Master’s thesis).  
 - Exploring modern data & ML tooling with different projects, from an **Intelligent Q&A system** to an **Autonomous AI-Powered Trading Agent**.
 - Developing an **entrepreneurial project** aimed at driving **digital transformation in a traditional industry** — more details will be revealed soon.
-
-
-
-## 🛠️ Tech I use
-- **Languages:** Python, R, Java, TypeScript.
-- **ML/DS:** scikit-learn, Keras, Pandas, NumPy, Matplotlib, LangChain, etc.  
-- **Frameworks:** FastAPI, Angular, Spring Boot, Streamlit, Tkinter.
-- **Learning:** PyTorch, Apache Kafka, Apache Flink, Apache Iceberg PySpark, etc.
 
 
 
