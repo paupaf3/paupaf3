@@ -1,6 +1,6 @@
 # Pau Agustí Fernandez  
 
-🚀 **Data Scientist & AI Engineer** with a background in **full-stack development** and a passion for building **data-driven solutions**.  
+🚀 **AI Engineer & Data Scientist** with a background in **full-stack development** and a passion for building **data-driven solutions**.  
 
 I enjoy working at the intersection of **machine learning, data pipelines, and product development**, always looking for ways to turn raw data into insights, decisions, and real value.  
 
@@ -51,9 +51,9 @@ On both of them I worked on **machine learning models, feature engineering, and 
 
 ## 🛠️ Tech I use
 - **Programming Languages:** Python, TypeScript, Java, R.
-- **Machine Learning & Data Science:** scikit-learn, Keras, Pandas, NumPy, Matplotlib, LangChain, PyTorch (learning).
+- **Machine Learning & Data Science:** scikit-learn, Keras, Pandas, NumPy, Matplotlib, LangChain, PyTorch.
 - **Web/App Frameworks:** FastAPI, Angular, Spring Boot, Streamlit, Tkinter, Android.
-- **Data Engineering & MLOps:** Kafka, Flink, MLflow (learning).
+- **Data Engineering & MLOps:** Kafka, Flink, MLflow.
 - **DevOps & Infrastructure:** Linux, Docker, WSL, Git, CI/CD fundamentals.
 
 
