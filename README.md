@@ -51,7 +51,7 @@ On both of them I worked on **machine learning models, feature engineering, and 
 
 ## 🛠️ Tech I use
 - **Programming Languages:** Python, TypeScript, Java, R.
-- **Machine Learning & Data Science:** scikit-learn, Keras, Pandas, NumPy, Matplotlib, LangChain, PyTorch.
+- **Machine Learning & Data Science:** Scikit-learn, Keras, Optuna, Pandas, NumPy, Matplotlib, LangChain, PyTorch.
 - **Web/App Frameworks:** FastAPI, Angular, Spring Boot, Streamlit, Tkinter, Android.
 - **Data Engineering & MLOps:** Kafka, Flink, MLflow.
 - **DevOps & Infrastructure:** Linux, Docker, WSL, Git, CI/CD fundamentals.
