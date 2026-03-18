@@ -1,71 +1,54 @@
-# Pau Agustí Fernandez  
+# Pau Agustí Fernandez 🚀
 
-🚀 **AI Engineer & Data Scientist** with a background in **full-stack development** and a passion for building **data-driven solutions**.  
+**ML Engineer & Data Scientist | 5+ Years Software Engineering & Machine Learning** 📍 Lleida, Spain (Remote Preferred)  
+📧 [pauagustifernandez3@gmail.com](mailto:pauagustifernandez3@gmail.com) | [LinkedIn](https://linkedin.com/in/pauagustifernandez3)
 
-I enjoy working at the intersection of **machine learning, data pipelines, and product development**, always looking for ways to turn raw data into insights, decisions, and real value.  
+---
 
+### 💡 Professional Profile
+I am an ML Engineer who bridges the gap between data science research and production-ready software. With over 5 years of experience in software engineering and leading technical teams, I focus on building **maintainable, end-to-end ML systems** that deliver measurable business value.
 
+> "I focus on building robust ML systems, from data pipelines to deployed models, not just notebooks."
 
-## 🔭 What I’m working on
-- Applying **Machine Learning & AI** in the agri-food sector at [IRTA](https://www.irta.cat), developing pipelines, predictive models, and interactive dashboards.  
-- Working on **"MLOps for Real-Time IoT Data Processing and Intelligent Monitoring of Photovoltaic Systems"** (Master’s thesis).  
-- Exploring modern data & ML tooling with different projects.
+---
 
+### 🔭 Key Projects & Experience
 
+* **Agri-Food ML/AI @ IRTA:** Developing predictive models for fruit conservation, deploying systems with FastAPI and MLflow for high-frequency inference.
+* **Generative AI @ Phaser (Co-Founder):** Engineered a RAG pipeline with LangChain to query 500+ complex documents and built AI microservices to integrate within Web-based applications.
+* **Real-Time IoT Monitoring (M.Sc. Thesis):** Architected a streaming anomaly detection pipeline using **Apache Kafka and Flink**, leveraging **MLflow** for experiment tracking and model versioning to ensure seamless deployment of PV system diagnostic models.
+* **Software Engineering Leadership:** Previously led a team at ICG Group/Hiopos Cloud, managing a multi-tenant e-commerce platform.
 
-## 🔬 Research
-I contributed to the paper:  
-[**Visible-near infrared spectroscopy and near-infrared hyperspectral imaging for the detection of T-2 and HT-2 toxins in individual oat grains**](https://doi.org/10.1016/j.foodcont.2025.111676) (*Food Control, 2025*)
+---
 
-And the oral communication:  
-**Targeting the hidden few: a new paradigm for non-destructive spectroscopic detection of mycotoxins in individual oat grains** (*ILSI Early Carrer Scientist Event, 2025*)
+### 🏆 Achievements & Research
+* 🥇 **1st Prize Award:** Best Thesis in the Energy Field by Energy HubLab for designing a Deep Learning Autoencoder to detect hardware failures in solar inverters.
+* 🔬 **Published Researcher:** Co-author of *"Visible-near infrared spectroscopy and near-infrared hyperspectral imaging for the detection of T-2 and HT-2 toxins in individual oat grains"* in *Food Control* (2025).
 
-On both of them I worked on **machine learning models, feature engineering, and hyperspectral data processing**.
+---
 
+### 🛠️ Technical Toolkit
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Programming Languages** | Python, Typescript, Java, R |
+| **AI & Data Science** | Keras, PyTorch, Scikit-learn, Pandas, NumPy, LangChain, Optuna |
+| **Engineering & MLOps** | AWS, Kafka, Flink, MLflow, Docker, PostgreSQL, MariaDB, CI/CD |
+| **Web & Backend** | FastAPI, Spring Boot, Django, Angular, Supabase |
+| **Visualization** | Streamlit, PowerBI, Plotly, Matplotlib, Seaborn |
 
+---
 
-## 📚 Books I recommend
+### 📚 Recommended Reading
+* **AI Engineering / Designing Machine Learning Systems (Chip Huyen):** My core references for bridging the gap between research and production. Both books emphasize not just building models or AI-driven features, but making them useful in the real world.
+* **Statistics Without Tears (Derek Rowntree) / The Art of Statistics (David Spiegelhalter):** Essential for making abstract statistical ideas feel approachable and meaningful.
+* **The Pragmatic Programmer (Andrew Hunt & David Thomas):** Timeless principles on how to think and act as a professional developer. Many of its lessons can also be applied beyond software.
+* **Code Complete (Steve McConnell):** Deep dive into software craftsmanship. Helps you understand why good practices matter.
 
-- **AI Engineering – Chip Huyen**  
-  A great perspective on bridging the gap between research and production. This book emphasizes not just building models, but making them useful in the real world, thinking about deployment, monitoring, iteration, and the people who will use them. It’s especially valuable if you’re interested in moving from “playing with models” to actually shipping AI systems that work at scale.
+---
 
-- **Designing Machine Learning Systems – Chip Huyen**  
-  An essential guide to understanding that ML is more than just algorithms. It dives into how to design end-to-end pipelines, handle data, and plan for scalability and maintainability. What I like most is how it changes your perspective: success isn’t only about model accuracy, but about creating robust systems that deliver value in production.
+### 🌱 Outside the IDE
+* 🏃 Dedicated runner, occasional trail runner, and gym enthusiast.
+* 🎣 Passionate about fishing, nature and outdoors.
+* 🚀 Interested in how AI innovation transforms the global market.
 
-- **Statistics Without Tears – Derek Rowntree**  
-  Despite its simplicity—and perhaps because of it—it pulled me in immediately. It’s a very basic book, probably not suited for those with formal training, but its clarity, visual explanations, and relatable examples made statistics feel approachable and meaningful for the first time.
-
-- **The Art of Statistics: Learning from Data – David Spiegelhalter**  
-  Though it dives a bit deeper than Statistics Without Tears, it remains highly visual and accessible, offering insightful stories and real-world applications that make abstract statistical ideas come alive.
-
-- **The Pragmatic Programmer – Andrew Hunt & David Thomas**  
-  Timeless principles on how to think and act as a professional developer. Many of its lessons can also be applied beyond software, to other fields and careers. 
-
-- **Code Complete – Steve McConnell**  
-  Deep dive into software craftsmanship. Helps you understand *why* good practices matter. 
-
-- **Clean Code – Robert C. Martin**  
-  Yes, obviously… every software engineer eventually ends up here.
-
-
-
-## 🛠️ Tech I use
-- **Programming Languages:** Python, TypeScript, Java, R.
-- **Machine Learning & Data Science:** Scikit-learn, Keras, Optuna, Pandas, NumPy, Matplotlib, LangChain, PyTorch.
-- **Web/App Frameworks:** FastAPI, Angular, Spring Boot, Streamlit, Tkinter, Android.
-- **Data Engineering & MLOps:** Kafka, Flink, MLflow.
-- **DevOps & Infrastructure:** Linux, Docker, WSL, Git, CI/CD fundamentals.
-
-
-
-## 🌱 Outside of code
-- 🏃 Runner (and ⛰️ Trail runner) 
-- 🎣 Passionate about fishing, nature and outdoors
-- 📖 I enjoy reading, especially about technology, AI, and how innovation transforms our world
-- 🚀 Interested in **entrepreneurship, product building, and tech trends**  
-
-
-
-## 📫 Open to Collaborate
-I enjoy teaming up on projects, exchanging knowledge, and exploring opportunities to create impactful solutions.  
-- 💼 Let’s connect on [LinkedIn](https://www.linkedin.com/in/pauagustifernandez3)
+**Let's build something impactful!** [Connect with me on LinkedIn](https://www.linkedin.com/in/pauagustifernandez3).
