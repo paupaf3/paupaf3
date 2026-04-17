@@ -1,12 +1,12 @@
 # Pau Agustí Fernandez 🚀
 
-**ML Engineer & Data Scientist | 5+ Years Software Engineering & Machine Learning** 📍 Lleida, Spain (Remote Preferred)  
+**ML/AI Engineer & Data Scientist | 5+ Years Software Engineering & Machine Learning** 📍 Lleida, Spain (Remote Preferred)  
 📧 [pauagustifernandez3@gmail.com](mailto:pauagustifernandez3@gmail.com) | [LinkedIn](https://linkedin.com/in/pauagustifernandez3)
 
 ---
 
 ### 💡 Professional Profile
-I am an ML Engineer who bridges the gap between data science research and production-ready software. With over 5 years of experience in software engineering and leading technical teams, I focus on building **maintainable, end-to-end ML systems** that deliver measurable business value.
+I am an ML/AI Engineer who bridges the gap between data science research and production-ready software. With over 5 years of experience in software engineering and leading technical teams, I focus on building **maintainable, end-to-end ML systems** that deliver measurable business value.
 
 > "I focus on building robust ML systems, from data pipelines to deployed models, not just notebooks."
 
