@@ -32,7 +32,7 @@ I am an ML/AI Engineer who bridges the gap between data science research and pro
 | :--- | :--- |
 | **Programming Languages** | Python, Typescript, Java, R |
 | **AI & Data Science** | Keras, PyTorch, Scikit-learn, Pandas, NumPy, LangChain, Optuna |
-| **Engineering & MLOps** | AWS, Kafka, Flink, MLflow, Docker, PostgreSQL, MariaDB, CI/CD |
+| **Engineering & MLOps** | AWS, Azure, Kafka, Flink, MLflow, Docker, PostgreSQL, MariaDB, CI/CD |
 | **Web & Backend** | FastAPI, Spring Boot, Django, Angular, Supabase |
 | **Visualization** | Streamlit, PowerBI, Plotly, Matplotlib, Seaborn |
 
