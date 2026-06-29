@@ -31,7 +31,7 @@ I am an AI Engineer who bridges the gap between data science research and produc
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Programming Languages** | Python, Typescript, Java, R |
-| **AI & Data Science** | Keras, PyTorch, Scikit-learn, Pandas, NumPy, LangChain, Optuna |
+| **AI & Data Science** | Keras, PyTorch, Scikit-learn, Pandas, NumPy, LangChain, LangGraph, Mastra, OpenCode |
 | **Engineering & MLOps** | AWS, Azure, Kafka, Flink, MLflow, Docker, PostgreSQL, MariaDB, CI/CD |
 | **Web & Backend** | FastAPI, Spring Boot, Django, Angular, Supabase |
 | **Visualization** | Streamlit, PowerBI, Plotly, Matplotlib, Seaborn |
