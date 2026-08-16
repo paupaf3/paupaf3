@@ -1,6 +1,6 @@
 # Pau Agustí Fernandez 🚀
 
-**AI Engineer & Data Scientist | 5+ Years Software Engineering & Machine Learning** 📍 Lleida, Spain (Remote Preferred)  
+**AI Engineer & Data Scientist | 5+ Years Software Engineering & Machine Learning** 📍 Lleida - Barcelona, Spain (Remote Preferred)  
 📧 [pauagustifernandez3@gmail.com](mailto:pauagustifernandez3@gmail.com) | [LinkedIn](https://linkedin.com/in/pauagustifernandez3)
 
 ---
